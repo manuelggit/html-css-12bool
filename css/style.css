@@ -5,4 +5,13 @@ body {
 [class*="col-"] {
   height: 20vh;
   border: 1px solid black;
+  background: pink;
+}
+
+#navbar > .col-1 {
+  height: 15vh;
+}
+
+#nested {
+  background: red;
 }
