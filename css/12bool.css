@@ -19,6 +19,10 @@
   clear: both;
 }
 
+[class*="col-"] {
+  float:left;
+}
+
 /* regole di colonna */
 
 .col-1 {
